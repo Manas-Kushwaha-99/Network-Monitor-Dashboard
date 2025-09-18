@@ -57,7 +57,7 @@ pip install flet psutil netifaces requests
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/network-monitor-dashboard.git
+   git clone https://github.com/Manas-Kushwaha-99/Network-Monitor-Dashboard.git
    cd network-monitor-dashboard
    ```
 2. Run the script:

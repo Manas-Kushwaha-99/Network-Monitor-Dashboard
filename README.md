@@ -110,3 +110,7 @@ Without `speedtest.exe`, all other features work fine, but speed tests will show
 * Internal debug logs are suppressed; only relevant user-facing messages appear.
 
 ---
+
+## Acknowledgements
+
+This project was built with the assistance of AI tools for code generation, debugging, and documentation.
